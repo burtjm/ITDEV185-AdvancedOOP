@@ -40,6 +40,7 @@ namespace Assignment_7
 
             Product pd = product.Find(uuu => uuu.itemNumber == 899);
             Console.WriteLine(pd.productName);
+			Console.ReadLine();
 
         }
         //constructor

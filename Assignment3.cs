@@ -5,7 +5,9 @@ namespace Assignment3
 {
 
     public class GenericsClass
+	
     {
+		// Generics Method 
 		public void GenericMethod<T>(T a, T b)
 		{	
 		
@@ -20,7 +22,7 @@ namespace Assignment3
 
     {
 
-        static void Main(string[] args)
+       static void Main(string[] args)
 
         {
 
